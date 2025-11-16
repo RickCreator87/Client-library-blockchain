@@ -1,0 +1,7 @@
+
+```bash
+# Add plugin architecture and core commands
+cd nextgen-cli
+npm install commander inquirer chalk figlet
+mkdir -p commands plugins/core plugins/custom
+```
